@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular8-crud-704e5": {
+      "hosting": {
+        "Prueba": [
+          "angular8-crud-704e5"
+        ]
+      }
+    }
+  }
+}
